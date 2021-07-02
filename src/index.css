@@ -6,17 +6,18 @@ h1 {
   color: blue;
 }
 button {
+  border: 1px solid white;
   border-radius: 5px;
-  border: 1px black solid;
 }
 #result {
   width: 25%;
-  background-color: lightgray;
-  border: 3px #000 solid;
+  background-color: #369;
   height: 48px;
   font-size: 20px;
   padding: 5px;
+  margin: 5px;
   text-align: right;
+  color: white;
 }
 #btns {
   width: 25%;
@@ -26,21 +27,26 @@ button {
 #btnBk {
   background-color: red;
   color: white;
-  border: 1px solid black;
 }
 #btnClr:hover,
 #btnBk:hover {
-  opacity: 0.6;
+  background-color: #e60000;
+}
+#btnSum,
+#btnSub,
+#btnMul,
+#btnDiv,
+#btnEql {
+  background-color: #a2bbd4;
 }
 .input {
   width: 25%;
-  height: 36px;
+  cursor: pointer;
+  height: 48px;
   font-size: 18px;
-  margin: 0px;
   float: left;
-}
-.input:hover {
-  background-color: #e1e1e1;
+  margin-bottom: 1px;
+  background-color: #e5ecf3;
 }
 @media screen and (max-width: 1025px) {
   #result,
