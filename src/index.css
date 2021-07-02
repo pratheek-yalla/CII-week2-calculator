@@ -5,6 +5,10 @@
 h1 {
   color: blue;
 }
+button {
+  border-radius: 5px;
+  border: 1px black solid;
+}
 #result {
   width: 25%;
   background-color: lightgray;
@@ -34,6 +38,9 @@ h1 {
   font-size: 18px;
   margin: 0px;
   float: left;
+}
+.input:hover {
+  background-color: #f9f9f9;
 }
 @media screen and (max-width: 1025px) {
   #result,
