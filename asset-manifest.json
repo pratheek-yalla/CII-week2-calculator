@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CII-week2-calculator/static/css/main.f37d24c2.chunk.css",
-    "main.js": "/CII-week2-calculator/static/js/main.8a39f909.chunk.js",
-    "main.js.map": "/CII-week2-calculator/static/js/main.8a39f909.chunk.js.map",
+    "main.js": "/CII-week2-calculator/static/js/main.a49189e4.chunk.js",
+    "main.js.map": "/CII-week2-calculator/static/js/main.a49189e4.chunk.js.map",
     "runtime-main.js": "/CII-week2-calculator/static/js/runtime-main.f914107a.js",
     "runtime-main.js.map": "/CII-week2-calculator/static/js/runtime-main.f914107a.js.map",
     "static/js/2.f1fed463.chunk.js": "/CII-week2-calculator/static/js/2.f1fed463.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f914107a.js",
     "static/js/2.f1fed463.chunk.js",
     "static/css/main.f37d24c2.chunk.css",
-    "static/js/main.8a39f909.chunk.js"
+    "static/js/main.a49189e4.chunk.js"
   ]
 }
